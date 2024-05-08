@@ -57,7 +57,7 @@ export default function Home() {
                 />
                 <button
                   // onClick={() => onSendMessage()}
-                  className="h-full w-3/12 flex flex-row justify-center border-l-2 border-solid border-discord-sidebar bg-white items-center rounded-md"
+                  className="h-full w-3/12 flex flex-row justify-center border-l-2 border-solid border-discord-sidebar bg-white items-center rounded-md text-black"
                 >
                   <AiOutlineSend size={30} />
                 </button>
