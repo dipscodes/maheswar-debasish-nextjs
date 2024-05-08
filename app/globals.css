@@ -26,6 +26,11 @@ body {
     rgb(var(--background-start-rgb));
 }
 
+@font-face {
+  font-family: samarkan;
+  src: url("./static/fonts/SAMAN___.TTF");
+}
+
 .banner {
   background-image: url("./static/images/bg-002.jpg");
   background-repeat: no-repeat;
